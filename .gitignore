@@ -156,3 +156,13 @@ Desktop.ini
 
 *.txt
 _version.py
+/.idea/
+/test/
+/test/*
+/output.xlsx
+/config.json
+.tmp.json
+.package.json
+.package-lock.json
+.xhs
+__pycache__/
